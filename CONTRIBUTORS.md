@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gaurav Kukade](https://github.com/gauravkukade)
+- Place: Pune, Maharashtra, India
+- Bio: Java Developer
+- Github: [gauravkukade](https://github.com/gauravkukade)
